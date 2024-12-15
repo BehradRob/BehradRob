@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BehradRob
-- 👀 I’m interested in Proframming, Elctonics, Robotics competitions
+- 👀 I’m interested in Programming, Elctonics, Robotics competitions
 - 🌱 I’m currently learning Web developing
 - 📫 How to reach me IG:@behrad.rob Tel:@BehradHal
 - 😄 Pronouns: He/Him
